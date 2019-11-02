@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="504fc937-9da7-4618-a2ef-bbe64b315fa5" name="Default Changelist" comment="" />
+    <list default="true" id="504fc937-9da7-4618-a2ef-bbe64b315fa5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.python_study.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.python_study.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main_study.py" />
+        <option value="$PROJECT_DIR$/import_test.py" />
       </list>
     </option>
   </component>
@@ -46,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572615382623</updated>
-      <workItem from="1572615385450" duration="276000" />
+      <workItem from="1572615385450" duration="587000" />
     </task>
     <servers />
   </component>
