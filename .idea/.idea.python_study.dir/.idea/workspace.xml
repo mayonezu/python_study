@@ -18,6 +18,7 @@
       <list>
         <option value="$PROJECT_DIR$/main_study.py" />
         <option value="$PROJECT_DIR$/import_test.py" />
+        <option value="$PROJECT_DIR$/import_study.py" />
       </list>
     </option>
   </component>
@@ -49,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572615382623</updated>
-      <workItem from="1572615385450" duration="587000" />
+      <workItem from="1572615385450" duration="1004000" />
     </task>
     <servers />
   </component>
